@@ -1,0 +1,10 @@
+La liste des cours informatiques suivis:
+
+Algorithmique
+C
+C++
+Java
+PHP
+MySQL
+
+
